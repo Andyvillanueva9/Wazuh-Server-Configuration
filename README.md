@@ -39,8 +39,7 @@ INFO: Installation finished.
 <img src="https://github.com/Andyvillanueva9/Projectimages/blob/1e17da5d84e856006c6f9b06e797348337c6ede3/Screenshot%203.jpg">
 <br />
 <br />
-
-
+2. Next we will use the ifconfig command to find the local ip so we can access the Wazuh dashboard through a browser using the format in the summary https://0.0.0.0:443.
 
 
 
