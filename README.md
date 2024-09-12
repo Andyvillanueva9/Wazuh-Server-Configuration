@@ -15,7 +15,26 @@ For the first step we will be using the CLI to install the components. We will b
 <br />
 <br />
 	1. Open your CLI and use the command below to download and start the installation assistant. 
+<br />
 curl -sO https://packages.wazuh.com/4.8/wazuh-install.sh && sudo bash ./wazuh-install.sh -a
+<br />
+<img src="https://github.com/Andyvillanueva9/Projectimages/blob/de33bd0c978913e50d04cf2bad41c30fa001ec39/Screenshot%202.jpg">
+<br />
+<br />
+The assistant will run for some time and will return a summary once completed with the following information. This information will be used to log in to the dashboard. 
+<br />
+<br />
+INFO: --- Summary ---
+<br />
+INFO: You can access the web interface https://<wazuh-dashboard-ip>
+<br />
+&nbsp;&nbsp; User: admin
+<br />
+&nbsp;&nbsp; Password: ADMIN_PASSWORD
+<br /> 
+INFO: Installation finished.
+<br />
+<br />
 
 
 
