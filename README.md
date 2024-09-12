@@ -28,7 +28,7 @@ The assistant will run for some time and will return a summary once completed wi
 <br />
 INFO: --- Summary ---
 <br />
-INFO: You can access the web interface https://<wazuh-dashboard-ip>
+INFO: You can access the web interface https://wazuh-dashboard-ip:443
 <br />
 &nbsp;&nbsp; User: admin
 <br />
@@ -36,9 +36,9 @@ INFO: You can access the web interface https://<wazuh-dashboard-ip>
 <br /> 
 INFO: Installation finished.
 <br />
+<img src="https://github.com/Andyvillanueva9/Projectimages/blob/1e17da5d84e856006c6f9b06e797348337c6ede3/Screenshot%203.jpg">
 <br />
-
-
+<br />
 
 
 
